@@ -1,6 +1,6 @@
 # Hi, I'm Ayomide 👋
 
-Analytics Engineer specializing in Python, SQL, and BigQuery data infrastructure.
+Analytics Engineer specialising in Python, SQL, and BigQuery data infrastructure.
 
 ## 🚀 What I've Built
 
@@ -12,7 +12,7 @@ Analytics Engineer specializing in Python, SQL, and BigQuery data infrastructure
 **Operational Dashboards**  
 - Cross-functional KPI tracking (operations, product, marketing, customer service)
 - Real-time bottleneck monitoring enabling 77% turnaround reduction
-- Executive reporting consolidating 4 manual reports into single view
+- Executive reporting consolidating 4 manual reports into a single view
 
 **Automation & Tools**
 - Google Apps Script invoice management system
@@ -31,9 +31,9 @@ Analytics Engineer specializing in Python, SQL, and BigQuery data infrastructure
 
 ## 📌 Featured Repositories
 
-- [**BigQuery-Zoho-Pipeline**](link) → Production sync with 8+ datasets, automated refresh
-- [**MySQL-BigQuery-Sync**](link) → Incremental loading + schema evolution
-- [**Invoice-Management-System**](link) → Automated Google Sheets invoicing with PDF export
+- [**BigQuery-Zoho-Pipeline**](https://github.com/Ayo-G/BigQuery-to-Zoho-sync-Pipeline) → Production sync with 8+ datasets, automated refresh
+- [**MySQL-BigQuery-Sync**](https://github.com/Ayo-G/mysql-to-bigquery-sync) → Incremental loading + schema evolution
+- [**Invoice-Management-System**](https://github.com/Ayo-G/Invoice-Management-System) → Automated Google Sheets invoicing with PDF export
 
 ## 📫 Connect
 
